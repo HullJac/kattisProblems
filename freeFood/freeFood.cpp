@@ -2,6 +2,7 @@
 #include <vector>
 #include <set>
 
+// Add all the numbers of the days that have free food to a set and get the size of the set
 int main() {
     std::set <int> s;    // The set
     int total;      // Holds the total of the unique days

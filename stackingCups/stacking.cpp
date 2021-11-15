@@ -3,6 +3,8 @@
 #include <string>
 #include <map>
 
+// Order the cups how they should be stacked based on the size of the cup
+
 // If the number is first cut it in half because it was doubled
 int main() {
     int numCups;

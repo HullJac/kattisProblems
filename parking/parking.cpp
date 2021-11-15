@@ -2,6 +2,7 @@
 #include <vector>
 #include <algorithm>
 
+// Find the shortest distance to walk based on the stores needed to go to
 
 // Take the largest minus the smallest and double that
 int main() {

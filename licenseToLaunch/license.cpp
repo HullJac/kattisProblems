@@ -2,6 +2,7 @@
 #include <vector>
 #include <algorithm>
 
+// Find the first day that has the least amount of space trash in the area.
 int main() {
     int numDays;
     std::cin >> numDays;

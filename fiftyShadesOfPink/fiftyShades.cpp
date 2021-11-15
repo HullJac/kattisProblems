@@ -1,6 +1,7 @@
 #include <iostream>
 #include <regex>
 
+// Find the number of training sessions to be attended by number of pink buttons
 int main() {
     int total = 0;
 
