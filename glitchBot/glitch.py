@@ -1,3 +1,5 @@
+# Done in collaboration with Jason Konz during a coding competition
+
 firstTwo = input()
 firstTwo = firstTwo.split()
 
